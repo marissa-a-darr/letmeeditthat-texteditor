@@ -3,7 +3,6 @@
 ## Table of Contents
 * [License](#license)  
 * [Description](#description)
-* [Video](#video) 
 * [Questions](#questions)
 
 ## Description <a name="description"></a>   
@@ -16,8 +15,7 @@ MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg
 ## Installation <a name="installation"></a>  
 To install, run ```npm i``` in the Develop folder
 You can now start the application by using ```npm start```.  You can now run the application.
-## Video <a name="video"></a>  
-[Video Link](https://drive.google.com/file/d/1xb8Y8o3iWj4FWcmHAyMikAkzRJcX2xN1/view)
+
 
 
 ## Questions <a name="questions"></a>  
