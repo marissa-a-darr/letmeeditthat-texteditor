@@ -1,26 +1,26 @@
-# Text Editor Starter Code
-GIVEN a text editor web application
-WHEN I open my application in my editor
-THEN I should see a client server folder structure
-WHEN I run `npm run start` from the root directory
-THEN I find that my application should start up the backend and serve the client
-WHEN I run the text editor application from my terminal
-THEN I find that my JavaScript files have been bundled using webpack
-WHEN I run my webpack plugins
-THEN I find that I have a generated HTML file, service worker, and a manifest file
-WHEN I use next-gen JavaScript in my application
-THEN I find that the text editor still functions in the browser without errors
-WHEN I open the text editor
-THEN I find that IndexedDB has immediately created a database storage
-WHEN I enter content and subsequently click off of the DOM window
-THEN I find that the content in the text editor has been saved with IndexedDB
-WHEN I reopen the text editor after closing it
-THEN I find that the content in the text editor has been retrieved from our IndexedDB
-WHEN I click on the Install button
-THEN I download my web application as an icon on my desktop
-WHEN I load my web application
-THEN I should have a registered service worker using workbox
-WHEN I register a service worker
-THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
-WHEN I deploy to Heroku
-THEN I should have proper build scripts for a webpack application
+# Let Me Edit That Text Editor
+
+## Table of Contents
+* [License](#license)  
+* [Description](#description)
+* [Video](#video) 
+* [Questions](#questions)
+
+## Description <a name="description"></a>   
+Let Me Edit That is an application that enables the user to create and save notes (or code snippets!) with or without requiring internet! 
+
+## License <a name="license"></a>  
+MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+* https://choosealicense.com/licenses/mit/
+
+## Installation <a name="installation"></a>  
+To install, run ```npm i``` in the Develop folder
+You can now start the application by using ```npm start```.  You can now run the application.
+## Video <a name="video"></a>  
+[Video Link](https://drive.google.com/file/d/1xb8Y8o3iWj4FWcmHAyMikAkzRJcX2xN1/view)
+
+
+## Questions <a name="questions"></a>  
+* [Github](https://github.com/marissa-a-darr)
+* Email: mrsaanadee@gmail.com
+* Other Contact: Please send me a message via email 
